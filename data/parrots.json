@@ -1,121 +1,120 @@
-"parrots": [
-  {
-    "name": "Scarlet Macaw (Ara macao)",
-    "origin": "Mittel- und Südamerika",
-    "lifespan": "40-60 Jahre",
-    "description": "Der Scarlet Macaw ist ein großer, bunter Papagei mit rotem, blauem und gelbem Gefieder. Er ist sehr laut, intelligent und lebt in Paaren oder kleinen Gruppen in tropischen Wäldern.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ara_macao_-flying-8a.jpg"
-  },
-  {
-    "name": "Blue-and-yellow Macaw (Ara ararauna)",
-    "origin": "Südamerika",
-    "lifespan": "30-50 Jahre",
-    "description": "Dieser Ara hat leuchtend blau-gelbes Gefieder und wird oft als Haustier gehalten. Er ist verspielt, laut und sehr sozial, benötigt jedoch viel Platz und Beschäftigung.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ara_ararauna_Luc_Viatour.jpg"
-  },
-  {
-    "name": "Green-winged Macaw (Ara chloropterus)",
-    "origin": "Nord- und Südamerika",
-    "lifespan": "50-70 Jahre",
-    "description": "Der Grünflügelara ist einer der größten Aras. Er hat rotes Gefieder mit grünen Flügeln und ist bekannt für seine starke Bindung zu Partnern und Menschen.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ara_chloropterus_qtl1.jpg"
-  },
-  {
-    "name": "Hyacinth Macaw (Anodorhynchus hyacinthinus)",
-    "origin": "Brasilien, Bolivien, Paraguay",
-    "lifespan": "50 Jahre+",
-    "description": "Der Hyazinthara ist der größte fliegende Papagei der Welt. Er hat auffälliges blaues Gefieder und einen kräftigen Schnabel, der sogar Kokosnüsse knacken kann.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Hyacinth_Macaw.jpg"
-  },
-  {
-    "name": "African Grey Parrot (Psittacus erithacus)",
-    "origin": "West- und Zentralafrika",
-    "lifespan": "40-60 Jahre",
-    "description": "Der Graupapagei ist für seine außergewöhnliche Sprachbegabung bekannt. Er benötigt viel mentale Stimulation und ist hochintelligent.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Psittacus_erithacus_-perching_on_tray-8a.jpg"
-  },
-  {
-    "name": "Yellow-headed Amazon (Amazona oratrix)",
-    "origin": "Mexiko, Zentralamerika",
-    "lifespan": "60-80 Jahre",
-    "description": "Die Gelbkopfamazone ist ein sehr guter Nachahmer menschlicher Stimmen. Sie ist aktiv, neugierig und hat ein starkes Sozialverhalten.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Amazona_oratrix_-captive-8a.jpg"
-  },
-  {
-    "name": "Blue-fronted Amazon (Amazona aestiva)",
-    "origin": "Südamerika",
-    "lifespan": "40-60 Jahre",
-    "description": "Die Blaustirnamazone hat ein grünes Gefieder mit blauen und gelben Akzenten am Kopf. Sie ist gesellig, verspielt und sehr lautstark.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Amazona_aestiva_-pet-8a.jpg"
-  },
-  {
-    "name": "Double Yellow-headed Amazon (Amazona oratrix oratrix)",
-    "origin": "Mexiko",
-    "lifespan": "50-60 Jahre",
-    "description": "Dieser Amazonenpapagei hat einen leuchtend gelben Kopf. Er ist bekannt für seine Lautstärke und Sprachbegabung.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazona_oratrix_-pet.jpg"
-  },
-  {
-    "name": "Kakadu (Sulphur-crested Cockatoo)",
-    "origin": "Australien, Neuguinea",
-    "lifespan": "40-70 Jahre",
-    "description": "Der Gelbhaubenkakadu ist ein sehr lauter, energiegeladener Vogel. Mit seiner auffälligen Haube kann er seine Stimmung zeigen.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cacatua_galerita_-Perth_Zoo-8a.jpg"
-  },
-  {
-    "name": "Moluccan Cockatoo (Cacatua moluccensis)",
-    "origin": "Indonesien",
-    "lifespan": "60-80 Jahre",
-    "description": "Der Molukkenkakadu ist für sein rosa Gefieder und seine laute Stimme bekannt. Er braucht viel Zuwendung und Beschäftigung.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cacatua_moluccensis_1_Luc_Viatour.jpg"
-  },
-  {
-    "name": "Eclectus Parrot (Eclectus roratus)",
-    "origin": "Neuguinea, Indonesien, Australien",
-    "lifespan": "30-50 Jahre",
-    "description": "Der Edelpapagei zeigt einen ausgeprägten Geschlechtsdimorphismus: Männchen sind grün, Weibchen rot-blau. Er ist ruhig, aber intelligent.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Eclectus_roratus-20030511.jpg"
-  },
-  {
-    "name": "Indian Ringneck Parakeet (Psittacula krameri)",
-    "origin": "Indien, Afrika",
-    "lifespan": "20-30 Jahre",
-    "description": "Der Halsbandsittich ist ein mittelgroßer, sprechfähiger Papagei. Er ist neugierig, verspielt und bildet in der Wildnis Schwärme.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rose-ringed_Parakeet_eating.jpg"
-  },
-  {
-    "name": "Sun Conure (Aratinga solstitialis)",
-    "origin": "Südamerika",
-    "lifespan": "20-30 Jahre",
-    "description": "Der Sonnensittich ist bekannt für sein leuchtend gelb-orangefarbenes Gefieder. Er ist laut, verspielt und sehr anhänglich.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Aratinga_solstitialis_-Brazil-8a.jpg"
-  },
-  {
-    "name": "Quaker Parrot (Monk Parakeet, Myiopsitta monachus)",
-    "origin": "Südamerika",
-    "lifespan": "20-30 Jahre",
-    "description": "Der Mönchssittich ist klein, aber sehr gesellig. Er baut große Nester und lebt oft in Kolonien. Beliebt als Haustier in vielen Ländern.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Myiopsitta_monachus_-two_on_branch-8a.jpg"
-  },
-  {
-    "name": "Cockatiel (Nymphicus hollandicus)",
-    "origin": "Australien",
-    "lifespan": "15-25 Jahre",
-    "description": "Die Nymphensittiche sind kleine, freundliche Papageien mit gelber Haube. Sie sind verspielt, können Geräusche nachahmen und sind beliebte Heimtiere.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nymphicus_hollandicus_-pet-8a.jpg"
-  }
-]
+{
+  "parrots": [
+    {
+      "name": "Scarlet Macaw (Ara macao)",
+      "origin": "Mittel- und Südamerika",
+      "lifespan": "40-60 Jahre",
+      "description": "Der Scarlet Macaw ist ein großer, bunter Papagei mit rotem, blauem und gelbem Gefieder. Er ist sehr laut, intelligent und lebt in Paaren oder kleinen Gruppen in tropischen Wäldern.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Ara_macao_-flying-8a.jpg"
+    },
+    {
+      "name": "Blue-and-yellow Macaw (Ara ararauna)",
+      "origin": "Südamerika",
+      "lifespan": "30-50 Jahre",
+      "description": "Dieser Ara hat leuchtend blau-gelbes Gefieder und wird oft als Haustier gehalten. Er ist verspielt, laut und sehr sozial, benötigt jedoch viel Platz und Beschäftigung.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Ara_ararauna_Luc_Viatour.jpg"
+    },
+    {
+      "name": "Green-winged Macaw (Ara chloropterus)",
+      "origin": "Nord- und Südamerika",
+      "lifespan": "50-70 Jahre",
+      "description": "Der Grünflügelara ist einer der größten Aras. Er hat rotes Gefieder mit grünen Flügeln und ist bekannt für seine starke Bindung zu Partnern und Menschen.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ara_chloropterus_qtl1.jpg"
+    },
+    {
+      "name": "Hyacinth Macaw (Anodorhynchus hyacinthinus)",
+      "origin": "Brasilien, Bolivien, Paraguay",
+      "lifespan": "50 Jahre+",
+      "description": "Der Hyazinthara ist der größte fliegende Papagei der Welt. Er hat auffälliges blaues Gefieder und einen kräftigen Schnabel, der sogar Kokosnüsse knacken kann.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Hyacinth_Macaw.jpg"
+    },
+    {
+      "name": "African Grey Parrot (Psittacus erithacus)",
+      "origin": "West- und Zentralafrika",
+      "lifespan": "40-60 Jahre",
+      "description": "Der Graupapagei ist für seine außergewöhnliche Sprachbegabung bekannt. Er benötigt viel mentale Stimulation und ist hochintelligent.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/38/Psittacus_erithacus_-perching_on_tray-8a.jpg"
+    },
+    {
+      "name": "Yellow-headed Amazon (Amazona oratrix)",
+      "origin": "Mexiko, Zentralamerika",
+      "lifespan": "60-80 Jahre",
+      "description": "Die Gelbkopfamazone ist ein sehr guter Nachahmer menschlicher Stimmen. Sie ist aktiv, neugierig und hat ein starkes Sozialverhalten.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Amazona_oratrix_-captive-8a.jpg"
+    },
+    {
+      "name": "Blue-fronted Amazon (Amazona aestiva)",
+      "origin": "Südamerika",
+      "lifespan": "40-60 Jahre",
+      "description": "Die Blaustirnamazone hat ein grünes Gefieder mit blauen und gelben Akzenten am Kopf. Sie ist gesellig, verspielt und sehr lautstark.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Amazona_aestiva_-pet-8a.jpg"
+    },
+    {
+      "name": "Double Yellow-headed Amazon (Amazona oratrix oratrix)",
+      "origin": "Mexiko",
+      "lifespan": "50-60 Jahre",
+      "description": "Dieser Amazonenpapagei hat einen leuchtend gelben Kopf. Er ist bekannt für seine Lautstärke und Sprachbegabung.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Amazona_oratrix_-pet.jpg"
+    },
+    {
+      "name": "Sulphur-crested Cockatoo (Cacatua galerita)",
+      "origin": "Australien, Neuguinea",
+      "lifespan": "40-70 Jahre",
+      "description": "Der Gelbhaubenkakadu ist ein sehr lauter, energiegeladener Vogel. Mit seiner auffälligen Haube kann er seine Stimmung zeigen.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cacatua_galerita_-Perth_Zoo-8a.jpg"
+    },
+    {
+      "name": "Moluccan Cockatoo (Cacatua moluccensis)",
+      "origin": "Indonesien",
+      "lifespan": "60-80 Jahre",
+      "description": "Der Molukkenkakadu ist für sein rosa Gefieder und seine laute Stimme bekannt. Er braucht viel Zuwendung und Beschäftigung.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Cacatua_moluccensis_1_Luc_Viatour.jpg"
+    },
+    {
+      "name": "Eclectus Parrot (Eclectus roratus)",
+      "origin": "Neuguinea, Indonesien, Australien",
+      "lifespan": "30-50 Jahre",
+      "description": "Der Edelpapagei zeigt einen ausgeprägten Geschlechtsdimorphismus: Männchen sind grün, Weibchen rot-blau. Er ist ruhig, aber intelligent.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Eclectus_roratus-20030511.jpg"
+    },
+    {
+      "name": "Indian Ringneck Parakeet (Psittacula krameri)",
+      "origin": "Indien, Afrika",
+      "lifespan": "20-30 Jahre",
+      "description": "Der Halsbandsittich ist ein mittelgroßer, sprechfähiger Papagei. Er ist neugierig, verspielt und bildet in der Wildnis Schwärme.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rose-ringed_Parakeet_eating.jpg"
+    },
+    {
+      "name": "Sun Conure (Aratinga solstitialis)",
+      "origin": "Südamerika",
+      "lifespan": "20-30 Jahre",
+      "description": "Der Sonnensittich ist bekannt für sein leuchtend gelb-orangefarbenes Gefieder. Er ist laut, verspielt und sehr anhänglich.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Aratinga_solstitialis_-Brazil-8a.jpg"
+    },
+    {
+      "name": "Quaker Parrot (Myiopsitta monachus)",
+      "origin": "Südamerika",
+      "lifespan": "20-30 Jahre",
+      "description": "Der Mönchssittich ist klein, aber sehr gesellig. Er baut große Nester und lebt oft in Kolonien. Beliebt als Haustier in vielen Ländern.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Myiopsitta_monachus_-two_on_branch-8a.jpg"
+    },
+    {
+      "name": "Cockatiel (Nymphicus hollandicus)",
+      "origin": "Australien",
+      "lifespan": "15-25 Jahre",
+      "description": "Die Nymphensittiche sind kleine, freundliche Papageien mit gelber Haube. Sie sind verspielt, können Geräusche nachahmen und sind beliebte Heimtiere.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Nymphicus_hollandicus_-pet-8a.jpg"
+    }
+  ],
 
-
-
- "quiz": [
+  "quiz": [
     {
       "question": "Welcher Papagei ist besonders bekannt für seine Sprechfähigkeiten?",
       "answers": ["Ara", "Kakadu", "Graupapagei"],
       "correctIndex": 2
     },
     {
-      "question": "Aus welchem Kontinent stammt der Scarlete Ara hauptsächlich?",
+      "question": "Aus welchem Kontinent stammt der Scarlet Macaw hauptsächlich?",
       "answers": ["Afrika", "Südamerika", "Australien"],
       "correctIndex": 1
     },
@@ -156,7 +155,7 @@
     },
     {
       "question": "Welche Gefahr bedroht Graupapageien in der Wildnis besonders?",
-      "answers": ["Illegale Tierhandels und Habitatverlust", "Zu viel Futter", "Zu wenig Sonne"],
+      "answers": ["Illegaler Tierhandel und Habitatverlust", "Zu viel Futter", "Zu wenig Sonne"],
       "correctIndex": 0
     },
     {
@@ -170,8 +169,8 @@
       "correctIndex": 0
     },
     {
-      "question": "Wofür werden Aras in manchen Regionen früher stark bejagt?",
-      "answers": ["Als Haustierhandel und Federn", "Zum Schwimmen", "Als Haustier für Katzen"],
+      "question": "Wofür wurden Aras in manchen Regionen früher stark bejagt?",
+      "answers": ["Als Haustierhandel und wegen Federn", "Zum Schwimmen", "Als Haustier für Katzen"],
       "correctIndex": 0
     },
     {
